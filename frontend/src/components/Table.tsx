@@ -14,7 +14,7 @@ const Table = () => {
         console.log("object")
     }, [])
     return (
-        <div className="mx-5 mt-5">
+        <div className="sm:mx-5 mt-10 sm:mt-5">
             <table className="  w-full text-xl border-separate border-spacing-0 ">
                 <thead >
                     <tr className="text-slate-700 ">
